@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://freehoebeke.be/index.html</loc>
+      <lastmod>2016-10-25</lastmod>
+   </url>
+
+	<url>
+      <loc>http://freehoebeke.be/cv.html</loc>
+      <lastmod>2016-10-25</lastmod>
+   </url>
+   
+	<url>
+      <loc>http://freehoebeke.be/cours.html</loc>
+      <lastmod>2016-10-25</lastmod>
+   </url>
+   
+   <url>
+      <loc>http://freehoebeke.be/a-propos.html</loc>
+      <lastmod>2016-10-25</lastmod>
+   </url>
+   
+   <url>
+      <loc>http://freehoebeke.be/email-ecole/email1_free.html</loc>
+      <lastmod>2016-10-06</lastmod>
+	  <changefreq>never</changefreq>
+   </url>
+   
+</urlset> 
